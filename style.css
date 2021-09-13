@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+section{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+div{
+    /* border-style: solid; */
+    width: 250px;
+    height: 250px;
+    /* border: 2px ; */
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 30px;
+    padding: 4px;
+}
+
+.negro{
+    background-color: black;
+    color: white;
+}
+
+.rojo{
+    background-color: red;
+    color: yellow;
+}
